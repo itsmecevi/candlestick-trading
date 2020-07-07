@@ -78,6 +78,8 @@ Memahami CS tidak semata-mata HANYA menghafal nama-nama dan karakter CS tersebut
 * CS dengan badan atau body di tengah menunjukan keraguan pasar
 
 
+## Nama-nama Candlestick
+
 
 
 
