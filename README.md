@@ -93,6 +93,12 @@ Memahami CS tidak semata-mata HANYA menghafal nama-nama dan karakter CS tersebut
 ![cs10](https://user-images.githubusercontent.com/27078712/86802220-fc640300-c09e-11ea-8f32-af79e5d98b6e.PNG)
 ![cs11](https://user-images.githubusercontent.com/27078712/86802243-038b1100-c09f-11ea-81af-dc19bb4af805.PNG)
 
+* **Dragonfly Doji:**
+
+![cs12](https://user-images.githubusercontent.com/27078712/86802650-6d0b1f80-c09f-11ea-93d3-c65f52f062cc.PNG)
+![cs13](https://user-images.githubusercontent.com/27078712/86802664-71cfd380-c09f-11ea-8344-2a84fc97601f.PNG)
+
+
 
 
 * Morning Star:
