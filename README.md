@@ -26,19 +26,39 @@ Ada beberapa alasan kenapa candlestick sangat diandalkan dalam trading pasar keu
 * CS digunakan hampir oleh kebanyakan profesional trader, bank, dan hedge funds. Trader tersebut memperjualbelikan jutaan dollar tiap harinya
 * Dengan menggunakan CS, hal tersebut akan membantu kita untuk memahami apa yang "big player" lakukan dan CS akan menunjukan kita kapan untuk buka posisi, kapan untuk keluar posisi, dan kapan bahkan tidak sama sekali memperhatikan market 
 
-## Struktur Candlestick
+## Poin utama Candlestick
 
 ![cs5](https://user-images.githubusercontent.com/27078712/86778363-7aff7700-c084-11ea-982b-a1aa04a70427.png)
 
 
+Memahami CS tidak semata-mata HANYA menghafal nama-nama dan karakter CS tersebut saja. Nyatanya, HANYA menghafal ratusan pola CS tidak membuat perbedaan signifikan pada performa trading. Kita bahkan tidak perlu menghafal pola CS tersebut walaupun mungkin menghafal dan tahu akan lebih baik. Kita hanya perlu MEMAHAMI pergerakan harga berdasarkan pada pola CS terebut. Ada 6 (enam) poin utama yang harus kita fahami dalam pembacaan CS, yaitu sbb:
+
+**1-Buy vs Sell:** Anggap saja bahwa sebuah CS adalah perang antara buyer dan seller dalam waktu tertentu yang keempar elemen CS tersebut mewakili hal-hal berikut
+
+* siapa yang unggul->
+* siapa yang mundur->
+* siapa memegang kontrol->
+* siapa yang memiliki peluang lebih besar untuk memenangkan pertempuran berikutnya di TF selanjutnya
+
+**2-Konteks:** CS tidak dapat diamat hanya dengan melihat satu CS aja atau satu pola saja, tetapi harus diamati secara keseluruhan dari harga yang lampau. Oleh karena itu, beberapa hal harus kita pertanyakan seperti berikut.
+
+* Apa artinya candlestick ukurannya lebih kecil atau besar dari candle sebelumnya?
+* Apa artinya perubahan ukuran tersebut?
+* Apakah perubahan terjadi saat sesi trading tak aktif? Misalnya, candlestick pada pasangan-pasangan mata uang EUR sering mengkerut atau mengecil pada sesi Asia
 
 
-**Harga pembukaan dan penutupan:**
-* Jika harga penutupan di atas harga pembukaan, maka harga sedang naik (bullish), artinya terdapat banyak pembeli daripada penjual pada saat itu tergantung timeframe mana yang digunakan
-* Sebaliknya, maka market sedang turun (bearish)
+**3-Ukuran Badan (Body) Candlestick:**
+![cs6](https://user-images.githubusercontent.com/27078712/86779977-658b4c80-c086-11ea-89b0-77e7042f0748.PNG)
 
-**Ukuran CS body:**
-* 
+* Panjang badan CS menunjukkan kekuatan buyer atau seller
+* Ukuran badan memanjang berarti menampilkan menguatnya momentum
+* Saat badan mengecil, berarti momentum juga bertambah pelan
+* Singkatnya, panjang badan (body)->pergerakan harga
+
+**4-Panjang ekor (tail. shadow, atau wick):**
+* Sumbu panjang mengindikasikan bahwa harga bergerak cepat selama durasi candlestik terkait, tapi mengalami penolakan karena adanya perlawanan.
+* Jika sumbu bertambah panjang, berarti volatilitas semakin meningkat. Hal ini sering terjadi di akhir sebuah tren, sebelum harga berbalik arah, atau ketika harga mendekati Support Resistance penting.
+
 
 
 
