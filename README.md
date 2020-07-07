@@ -66,6 +66,20 @@ Memahami CS tidak semata-mata HANYA menghafal nama-nama dan karakter CS tersebut
 * Jika sumbu bertambah panjang, berarti volatilitas semakin meningkat. Hal ini sering terjadi di akhir sebuah tren, sebelum harga berbalik arah, atau ketika harga mendekati Support Resistance penting.
 
 
+**5-Perbandingan panjang badan dan ekor:**
+
+* Mana yang lebih panjang, body atau ekor CS?
+* Tren dengan momentum tinggi-> CS berbadan panjang dengan ekor lebih kecil
+* Pada saat pasar tidak pasti-> volatilitas meningkat sehingga badan CS mengecil dan ekor memanjang
+
+**6-Posisi badan CS:**
+
+* CS bersumbu panjang dengan posisi badan berada di salah satu ujungnya? Hal ini menunjukkan perlawanan, kita sebutnya adalah pinbar reversal
+* CS dengan badan atau body di tengah menunjukan keraguan pasar
+
+
+
+
 
 
 
