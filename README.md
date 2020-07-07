@@ -99,6 +99,10 @@ Memahami CS tidak semata-mata HANYA menghafal nama-nama dan karakter CS tersebut
 ![cs13](https://user-images.githubusercontent.com/27078712/86802664-71cfd380-c09f-11ea-8344-2a84fc97601f.PNG)
 
 
+* **Gravestone Doji:**
+
+![cs14](https://user-images.githubusercontent.com/27078712/86804306-01c24d00-c0a1-11ea-82fb-2159f6c84a67.PNG)
+![cs15](https://user-images.githubusercontent.com/27078712/86804329-071f9780-c0a1-11ea-86f9-dba24816fcdd.PNG)
 
 
 * Morning Star:
