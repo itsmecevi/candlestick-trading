@@ -15,7 +15,7 @@ Sedangkan market bergerak sideway (sejajar tidak turun dan naik) ketika harga be
 ![cs4](https://user-images.githubusercontent.com/27078712/86765004-c6108e80-c072-11ea-85bd-6e9e48aa29b4.PNG)
 
 
-## Kenapa Candlestick untuk Trading?
+## Candlestick untuk Trading?
 
 
 
