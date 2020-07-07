@@ -80,6 +80,20 @@ Memahami CS tidak semata-mata HANYA menghafal nama-nama dan karakter CS tersebut
 
 ## Nama-nama Candlestick
 
+* Engulfing bar:
+![cs8](https://user-images.githubusercontent.com/27078712/86800581-624f8b00-c09d-11ea-9bb3-8e140717f8f3.PNG)
+![cs9](https://user-images.githubusercontent.com/27078712/86800606-68456c00-c09d-11ea-975c-ef0386b208f9.PNG)
+
+
+
+
+* Doji:
+* Morning Star:
+* Hammer 
+* Shooting Star
+* Harami
+* Tweezers Tops Bottoms
+
 
 
 
