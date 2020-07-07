@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Candlestick Trading
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/candlestick-trading/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
