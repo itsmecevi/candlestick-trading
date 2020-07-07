@@ -48,6 +48,8 @@ Memahami CS tidak semata-mata HANYA menghafal nama-nama dan karakter CS tersebut
 
 
 **3-Ukuran Badan (Body) Candlestick:**
+
+
 ![cs6](https://user-images.githubusercontent.com/27078712/86779977-658b4c80-c086-11ea-89b0-77e7042f0748.PNG)
 
 * Panjang badan CS menunjukkan kekuatan buyer atau seller
@@ -56,6 +58,10 @@ Memahami CS tidak semata-mata HANYA menghafal nama-nama dan karakter CS tersebut
 * Singkatnya, panjang badan (body)->pergerakan harga
 
 **4-Panjang ekor (tail. shadow, atau wick):**
+
+
+![cs7](https://user-images.githubusercontent.com/27078712/86785233-97071680-c08c-11ea-9453-568eae6835f0.PNG)
+
 * Sumbu panjang mengindikasikan bahwa harga bergerak cepat selama durasi candlestik terkait, tapi mengalami penolakan karena adanya perlawanan.
 * Jika sumbu bertambah panjang, berarti volatilitas semakin meningkat. Hal ini sering terjadi di akhir sebuah tren, sebelum harga berbalik arah, atau ketika harga mendekati Support Resistance penting.
 
