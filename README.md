@@ -316,7 +316,9 @@ Ada 3 cara untuk trading di market yang sedang sideway:
 
 3. Menunggu Pullback dari SR yang ada
 
+Jika ada pullback setelah breakout, itu pertanda kemungkinan besar akan terus naik ke atas
 
+![cs51](https://user-images.githubusercontent.com/27078712/87027253-19b3e100-c207-11ea-8007-8e19eaa3b753.PNG)
 
 
 
