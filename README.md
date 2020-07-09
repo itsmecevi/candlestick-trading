@@ -288,6 +288,15 @@ SR adalah sebuah titik keseimbangan antara buyer dan seller. Biasanya titik ini 
 
 **Bagaimana menggambarkan TREN:**
 
+* Untuk menggambar Tren naik atau turun, kita perlu minimum 2 buah titik swing poin
+* Gunakan TF besar seperti H4 dan Daily, dan jangan gunakan TF kecil 
+
+![cs46](https://user-images.githubusercontent.com/27078712/87021785-d0ac5e80-c1ff-11ea-9019-96cdc39885b5.PNG)
+![cs47](https://user-images.githubusercontent.com/27078712/87021806-d6a23f80-c1ff-11ea-8250-d8198d90cc6d.PNG)
+
+
+**Sideway Market:**
+
 
 
 
