@@ -297,6 +297,15 @@ SR adalah sebuah titik keseimbangan antara buyer dan seller. Biasanya titik ini 
 
 **Sideway Market:**
 
+Sideway market berbentuk sebuah pergerakan horizontal, dimana harga terjadi bolak balik di sekitar level support dan resistance yang sama. 
+
+![cs48](https://user-images.githubusercontent.com/27078712/87023778-6c3ece80-c202-11ea-8015-685ec344bf8c.PNG)
+
+
+Ada 3 cara untuk trading di market yang sedang sideway:
+
+1. 
+
 
 
 
