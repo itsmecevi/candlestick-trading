@@ -105,7 +105,29 @@ Memahami CS tidak semata-mata HANYA menghafal nama-nama dan karakter CS tersebut
 ![cs15](https://user-images.githubusercontent.com/27078712/86804329-071f9780-c0a1-11ea-86f9-dba24816fcdd.PNG)
 
 
-* Morning Star:
+* **Morning Star:**
+
+![cs16](https://user-images.githubusercontent.com/27078712/87000221-b910ae00-c1de-11ea-863a-7b74c1789636.PNG)
+![cs17](https://user-images.githubusercontent.com/27078712/87000232-bf068f00-c1de-11ea-9e54-b17d4177644e.PNG)
+
+* Pola Morning Star terdiri dari 3 CS
+* CS pertama merupakan bearish CS dan menunjukan bahwa seller mendominasi market
+* CS kedua merupakan ketikdakpastian, dimana bisa saja CS bearish atau CS bullish
+* CS ketiga HARUS merupakan CS bullish yang ditandai dengan hadirnya tekanan dari buyer sehingga chart bergerak ke atas
+
+
+* **Evening Star:**
+
+![cs18](https://user-images.githubusercontent.com/27078712/87000645-c8dcc200-c1df-11ea-9e79-473fad422cf1.PNG)
+![cs19](https://user-images.githubusercontent.com/27078712/87000651-ce3a0c80-c1df-11ea-9917-f7491cfeb14f.PNG)
+
+* Pola Evening Star terdiri dari 3 CS
+* CS pertama bullish
+* CS kedua merupakan CS kecil atau bearish atau bisa juga Doji yang menandakan bahwa tekanan buyer semakin berkurang
+* CS ketiga merupakan bearish besar. Menandakan bahwa buyer telah selesai dan munculan dominasi seller. Evening Star merupakan kebalikan dari versi Morning Star
+
+
+
 * Hammer 
 * Shooting Star
 * Harami
