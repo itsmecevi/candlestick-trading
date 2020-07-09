@@ -166,9 +166,39 @@ Memahami CS tidak semata-mata HANYA menghafal nama-nama dan karakter CS tersebut
 
 
 
-* Shooting Star
-* Harami
-* Tweezers Tops Bottoms
+
+**Harami:**
+
+![cs24](https://user-images.githubusercontent.com/27078712/87007671-d3518880-c1ec-11ea-8207-a14f05101351.PNG)
+![cs25](https://user-images.githubusercontent.com/27078712/87007632-c59c0300-c1ec-11ea-95f9-09c1f41f8722.PNG)
+![cs26](https://user-images.githubusercontent.com/27078712/87007698-dea4b400-c1ec-11ea-891f-b03460ada1be.PNG)
+
+
+* Terdiri dari 2 CS
+* CS besar disebut CS ibu, CS yang kecil disebut CS anak
+* CS tersebut merupakam CS reversal
+
+**Tweezers Tops/Bottoms:**
+
+![cs27](https://user-images.githubusercontent.com/27078712/87008141-84582300-c1ed-11ea-9d96-4075780ad85a.PNG)
+![cs28](https://user-images.githubusercontent.com/27078712/87008157-891cd700-c1ed-11ea-9aaa-0da9d1f5ae4b.PNG)
+![cs29](https://user-images.githubusercontent.com/27078712/87008171-8de18b00-c1ed-11ea-930c-b64eb11a32a4.PNG)
+
+* Terdiri dari 2 CS
+* Ketika tekanan salah satu pihak kuat dan dibalasa dengan tekanan yang hampir sama
+* Merupakan CS reversala dimana CS kedua yang menentukan apakah polanya adalah bullish reversal atau bearish reversal
+
+
+
+**Latihan Pola Candlestick:**
+
+Sebutkanlah dan analisa CS berikut ini.
+
+![cs30](https://user-images.githubusercontent.com/27078712/87008434-ec0e6e00-c1ed-11ea-9da4-05f773b60533.PNG)
+![cs31](https://user-images.githubusercontent.com/27078712/87008447-f16bb880-c1ed-11ea-9608-64fa21b3a244.PNG)
+
+
+
 
 
 
