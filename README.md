@@ -246,6 +246,42 @@ Di dalam CS ada 2 jenis type CS yang kita kenal, yaitu REVERSAL (pembalikan arah
 
 ## Struktur Market
 
+* Kita harus menghindari cara trading yang sama di market yang dalam keadaan berbeda
+* Kita harus mempelajari pergerakan market dan bagaimana trader bereaksi terhadap market dalam situasi tertentu
+* Struktur market adalah pelajaran tentang perilaku pergerakan market
+* Jika kita sudah faham tentang market, maka kita akan bisa menjawab beberapa pertanyaan di bawah ini
+    * Apa yang dilakukan trader di ketidakjelasan market
+    * Pihak mana yang mendominasi apakah buyer atau seller
+    * Kapan saat yang tepat untuk masuk dan keluar dari market, bahkan kapan untuk tetap tinggal di market tidak dulu keluar
+* Dengan menggunakan Price Action Analysis, maka kita akan memahami pergerakan pasar ada 3 jenis, yaitu
+    * Tren-> naik atau turun, ikuti market!
+    * Sideway-> bolak balik ke titik support dan resistance yang sama
+    * Choppy-> ketidakjelasan market, NO TRADE!
+    
+____
+
+**Tren Market:**
+    
+![cs40](https://user-images.githubusercontent.com/27078712/87015333-7c9d7c00-c1f7-11ea-9c85-66541bb4a004.PNG)
+![cs41](https://user-images.githubusercontent.com/27078712/87015343-81623000-c1f7-11ea-919f-9096f99ac88c.PNG)
+
+-Dari data, bahwa market mempunyai peluang tren sebesar 30% dari total waktu yang ada
+-Jangan melihat tren dari waktu yang kecil, lihatlah dari waktu yang besar seperti TFH4
+
+![cs42](https://user-images.githubusercontent.com/27078712/87015745-03eaef80-c1f8-11ea-8a5d-e64a433d29e3.PNG)
+![cs43](https://user-images.githubusercontent.com/27078712/87015766-09e0d080-c1f8-11ea-8b89-0b5015440192.PNG)
+
+-Tren Naik-> buka posisi saat impulsive, TP di Reversal CS
+-Tren Turun-> buka posisi saat retracement, TP di Reversal CS
+
+
+Pertanyaannya adalah bagaimana menentukan titik impulsive dan titik retracement, akan kita bahas di Support dan Resitance level atau untuk penjelasan mengenai metodenya bisa lebih jelas dipelajari di link berikut: https://itsmecevi.github.io/sr-trading/
+
+
+**Support & Resistance level:**
+
+
+
 
 
 
