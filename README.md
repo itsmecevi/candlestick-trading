@@ -304,7 +304,12 @@ Sideway market berbentuk sebuah pergerakan horizontal, dimana harga terjadi bola
 
 Ada 3 cara untuk trading di market yang sedang sideway:
 
-1. 
+1. Menunggu harga mencapai level SR
+
+![cs49](https://user-images.githubusercontent.com/27078712/87024645-993fb100-c203-11ea-826f-c206c9a2b8fc.PNG)
+
+
+2. 
 
 
 
