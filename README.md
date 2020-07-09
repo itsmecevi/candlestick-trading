@@ -309,7 +309,14 @@ Ada 3 cara untuk trading di market yang sedang sideway:
 ![cs49](https://user-images.githubusercontent.com/27078712/87024645-993fb100-c203-11ea-826f-c206c9a2b8fc.PNG)
 
 
-2. 
+2. Menunggu breakout dari level SR
+
+![cs50](https://user-images.githubusercontent.com/27078712/87026456-f6d4fd00-c205-11ea-8d1a-0f385966cfff.PNG)
+
+
+3. Menunggu Pullback dari SR yang ada
+
+
 
 
 
