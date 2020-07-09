@@ -209,14 +209,39 @@ Di dalam CS ada 2 jenis type CS yang kita kenal, yaitu REVERSAL (pembalikan arah
 **Reversal:**
 
 
-1. Three White Soldiers/Three Black Crows
+1. Three White Soldiers/Three Black Crows/Identical Three Crows
 
 ![cs32](https://user-images.githubusercontent.com/27078712/87010626-08f87080-c1f1-11ea-9622-7a1d638ff829.PNG) 
 
 ![cs33](https://user-images.githubusercontent.com/27078712/87011079-a3f14a80-c1f1-11ea-8be7-b2543f638c25.PNG)
 
+![cs34](https://user-images.githubusercontent.com/27078712/87011949-c9cb1f00-c1f2-11ea-96f2-042501c13f0d.PNG)
 
-2. 
+
+
+2. Morning Star/Evening Star
+
+![cs35](https://user-images.githubusercontent.com/27078712/87012170-1c0c4000-c1f3-11ea-93a8-880139fc4556.PNG)
+
+![cs36](https://user-images.githubusercontent.com/27078712/87012242-36461e00-c1f3-11ea-88a5-9556d653634c.PNG)
+
+
+3. Three Line Strike
+
+![cs37](https://user-images.githubusercontent.com/27078712/87012438-7ad1b980-c1f3-11ea-9358-420f4df476c3.PNG)
+
+
+**Continuation:**
+
+1. Deliberation
+
+![cs38](https://user-images.githubusercontent.com/27078712/87012667-c5ebcc80-c1f3-11ea-8b9d-36b5f36e657e.PNG)
+
+2. Concealing Baby Swallow
+
+![cs39](https://user-images.githubusercontent.com/27078712/87012813-eddb3000-c1f3-11ea-981f-c27e8f85b2be.PNG)
+
+
 
 
 ## Struktur Market
