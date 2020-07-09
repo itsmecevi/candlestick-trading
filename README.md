@@ -353,7 +353,7 @@ Seorang trader harian yang menggunakan Price Action Trading mengenal TF H1, H4, 
     * Signal CS atau Price Action Signal: Berupa CS yang mengindikasikan pergerakan harga selanjutnya
  
 
-**Contoh Studi Kasus:**
+## Studi Kasus
 
 
 
