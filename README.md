@@ -80,29 +80,47 @@ Memahami CS tidak semata-mata HANYA menghafal nama-nama dan karakter CS tersebut
 
 ## Nama-nama Candlestick
 
-* **Engulfing bar:**
+
+**Engulfing bar:**
 
 ![cs8](https://user-images.githubusercontent.com/27078712/86800581-624f8b00-c09d-11ea-9bb3-8e140717f8f3.PNG)
 ![cs9](https://user-images.githubusercontent.com/27078712/86800606-68456c00-c09d-11ea-975c-ef0386b208f9.PNG)
 
+* Terdiri dari 2 CS
+* CS pertama bisa bullish atau bearish
+* CS kedua HARUS melampaui besarnya ukuran CS pertama
 
 
-
-* **Doji:**
+**Doji:**
 
 ![cs10](https://user-images.githubusercontent.com/27078712/86802220-fc640300-c09e-11ea-8f32-af79e5d98b6e.PNG)
 ![cs11](https://user-images.githubusercontent.com/27078712/86802243-038b1100-c09f-11ea-81af-dc19bb4af805.PNG)
 
-* **Dragonfly Doji:**
+* Doji merupakan satu CS
+* Doji mengindikasikan ketikdakpastian market
+* Doji biasanya merupakan salah satu tanda adanya reversal atau pembalikan arah market
+
+
+**Dragonfly Doji:**
 
 ![cs12](https://user-images.githubusercontent.com/27078712/86802650-6d0b1f80-c09f-11ea-93d3-c65f52f062cc.PNG)
 ![cs13](https://user-images.githubusercontent.com/27078712/86802664-71cfd380-c09f-11ea-8344-2a84fc97601f.PNG)
 
+* Dragonfly Doji merupakan satu CS
+* Dragonfly Doji mengindikasikan ketikdakpastian market
+* Dragonfly Doji biasanya merupakan salah satu tanda adanya reversal atau pembalikan arah market dan biasanya adalah bullish seperti pada contoh gambar di atas
 
-* **Gravestone Doji:**
+
+
+**Gravestone Doji:**
 
 ![cs14](https://user-images.githubusercontent.com/27078712/86804306-01c24d00-c0a1-11ea-82fb-2159f6c84a67.PNG)
 ![cs15](https://user-images.githubusercontent.com/27078712/86804329-071f9780-c0a1-11ea-86f9-dba24816fcdd.PNG)
+
+* Gravestone Doji merupakan satu CS
+* Gravestone Doji mengindikasikan ketikdakpastian market
+* Gravestone Doji biasanya merupakan salah satu tanda adanya reversal atau pembalikan arah market dan biasanya adalah bearish seperti pada contoh gambar di atas
+
 
 
 * **Morning Star:**
@@ -116,7 +134,7 @@ Memahami CS tidak semata-mata HANYA menghafal nama-nama dan karakter CS tersebut
 * CS ketiga HARUS merupakan CS bullish yang ditandai dengan hadirnya tekanan dari buyer sehingga chart bergerak ke atas
 
 
-* **Evening Star:**
+**Evening Star:**
 
 ![cs18](https://user-images.githubusercontent.com/27078712/87000645-c8dcc200-c1df-11ea-9e79-473fad422cf1.PNG)
 ![cs19](https://user-images.githubusercontent.com/27078712/87000651-ce3a0c80-c1df-11ea-9917-f7491cfeb14f.PNG)
