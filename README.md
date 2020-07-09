@@ -1,7 +1,13 @@
 ## Candlestick Trading
 
 
-Candlestick trading identik dengan sebuah metode yang dikembangkan di Jepang pada tahun 1700-an untuk memahami pergerakan harga besar. Teknik tersebut diciptakan oleh seorang trader beras terkenal bernama Munehisa Homma. Dia terkenal sebagai trader paling sukses sepanjang sejarah.
+Candlestick trading identik dengan sebuah metode yang dikembangkan di Jepang pada tahun 1700-an untuk memahami pergerakan harga besar. Teknik tersebut diciptakan oleh seorang trader beras terkenal bernama Munehisa Homma. Dia terkenal sebagai trader paling sukses sepanjang sejarah. Secara umum CS trading dikenal pula dengan PRICE ACTION TRADING, dimana pondasi tradingnya berasal dari 4 pilar, yaitu:
+
+1. Candlesticks
+2. Bullish Trend
+3. Bearish Trend
+4. Flat Market/Sideway Market
+5. Choppy Market (tidak jelas atau anomali)
 
 Cara membaca candlestick sangat mudah, terdiri dari harga tertinggi, harga terendah, harga pembukaan dan harga penutupan. 
 ![cs1](https://user-images.githubusercontent.com/27078712/86764192-11766d00-c072-11ea-9974-368d0cf729a0.PNG)
@@ -328,6 +334,26 @@ Jika ada pullback setelah breakout, itu pertanda kemungkinan besar akan terus na
 
 
 
+
+## Top Down TF Analysis
+
+
+**Analisa TF:**
+
+Seorang trader harian yang menggunakan Price Action Trading mengenal TF H1, H4, dan Daily. Karena TF yang lebih kecil tidak memungkinkannya melihat pergerakan market dengan jelas. Dengan menggunaka Price Action Trading, maka kita akan menggunakan TF yang besar dan mengumpulkan informasi berikut:
+
+-Support dan Resistance penting: cari SR penting di TF Weekly
+
+-Struktur Market: Weekly TF analysis membuat kejelasan Tren menjadi lebih baik, sehingga trader mengenali apakah pasar sedang tren naik, turun, sideway, atau bahkan choppy atau tidak jelas
+
+-CS sebelumnya di Weekly TF membuat pergerakan market menjadi lebih jelas, dan untuk lebih mendalam maka analisa dapat dilakukan denga TF H4:
+
+    * Kondisi Market: Apakah market sedang tren naik, turun, sideway, atau choppy di dalam TF H4
+    * Titik penting: Tentukan titik penting di TF H4 atau Daily, bisa berupa SR, Supply & Demand, atau bahkan Trendline, atau juga pola-pola chart
+    * Signal CS atau Price Action Signal: Berupa CS yang mengindikasikan pergerakan harga selanjutnya
+ 
+
+**Contoh Studi Kasus:**
 
 
 
