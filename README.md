@@ -205,6 +205,11 @@ Sebutkanlah dan analisa CS berikut ini.
 ## Candlestick Terkuat
 
 
+## Struktur Market
+
+
+
+
 
 
 
