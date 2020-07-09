@@ -280,6 +280,16 @@ Pertanyaannya adalah bagaimana menentukan titik impulsive dan titik retracement,
 
 **Support & Resistance level:**
 
+SR adalah sebuah titik keseimbangan antara buyer dan seller. Biasanya titik ini adalah titik reversal dimana market mencari keseimbangan dalam pergerakannya di berbagai TF. Biasanya SR di market yang tren baik itu tren naik atau tren turun terletak di swing point. Untuk lebih jelasnya, mari kita perhatikan gambar berikut ini.
+
+![cs44](https://user-images.githubusercontent.com/27078712/87021122-00a73200-c1ff-11ea-8f7e-35a7edbcd81a.PNG)
+![cs45](https://user-images.githubusercontent.com/27078712/87021143-069d1300-c1ff-11ea-8b4f-e51b14a4dc5f.PNG)
+
+
+**Bagaimana menggambarkan TREN:**
+
+
+
 
 
 
