@@ -322,6 +322,9 @@ Jika ada pullback setelah breakout, itu pertanda kemungkinan besar akan terus na
 
 
 
+**Choppy Market:** NO TRADE!
+
+![cs52](https://user-images.githubusercontent.com/27078712/87028458-d3f81800-c208-11ea-83f7-a41f71676204.PNG)
 
 
 
