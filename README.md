@@ -208,9 +208,11 @@ Di dalam CS ada 2 jenis type CS yang kita kenal, yaitu REVERSAL (pembalikan arah
 
 **Reversal:**
 
+
 1. Three White Soldiers/Three Black Crows
 
 ![cs32](https://user-images.githubusercontent.com/27078712/87010626-08f87080-c1f1-11ea-9622-7a1d638ff829.PNG) 
+
 ![cs33](https://user-images.githubusercontent.com/27078712/87011079-a3f14a80-c1f1-11ea-8be7-b2543f638c25.PNG)
 
 
