@@ -146,12 +146,33 @@ Memahami CS tidak semata-mata HANYA menghafal nama-nama dan karakter CS tersebut
 
 
 
-* Hammer 
+**Bullish Hammer/Pin Bar:**
+
+![cs20](https://user-images.githubusercontent.com/27078712/87002482-e6138f80-c1e3-11ea-9a18-2d0f4f009485.PNG)
+![cs21](https://user-images.githubusercontent.com/27078712/87002500-ee6bca80-c1e3-11ea-8531-5a24c2457f85.PNG)
+
+
+* CS ini mempunyai ekor yang panjang. EKor tersebut terbentuk karena tekanan seller yang kuat tetapi tetap tidak bisa menekan harga ke bawah, oleh karena itu CS ini merupakan reversalal bearish, atau tanda bahwa market atau bergerak reversal ke atas
+* Salah satu ciri lainnya adalah CS ini mempunyai harga pembukaan dan harga penutupan yang hampir sama, tetapi lebih tinggi dari CS sebelumnnya seperti pada gambar di atas
+
+
+**Bearish Hammer/Pin Bar:**
+
+![cs22](https://user-images.githubusercontent.com/27078712/87002730-7520a780-c1e4-11ea-959b-05c2850613e4.PNG)
+![cs23](https://user-images.githubusercontent.com/27078712/87002740-7a7df200-c1e4-11ea-9fbc-f401bc5fa988.PNG)
+
+* CS ini hampir sama cara berpikir dan polanya dengan bullish hammer, hanya saja terjadi pada saat tren naik atau bullish. Sehingga bisa dikatakan bahwa CS ini merupakan reversal dari bullish 
+
+
+
+
 * Shooting Star
 * Harami
 * Tweezers Tops Bottoms
 
 
+
+## Candlestick Terkuat
 
 
 
